@@ -1,0 +1,7 @@
+.custom-table {
+    background: none; /* Set to 'none' to remove default background color */
+    border: 2px solid; /* Set border width and color */
+    border-collapse: separate; /* Ensure borders are separated */
+    border-radius: 10px; /* Optional: add border-radius for rounded corners */
+  }
+  
